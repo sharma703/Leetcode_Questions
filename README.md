@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sharma703/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sharma703/Leetcode_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sharma703/Leetcode_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/sharma703/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sharma703/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sharma703/Leetcode_Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Dynamic Programming
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sharma703/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sharma703/Leetcode_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sharma703/Leetcode_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
