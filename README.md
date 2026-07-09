@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/sharma703/Leetcode_Questions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/sharma703/Leetcode_Questions/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/sharma703/Leetcode_Questions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0338-counting-bits](https://github.com/sharma703/Leetcode_Questions/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/sharma703/Leetcode_Questions/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/sharma703/Leetcode_Questions/tree/master/1009-complement-of-base-10-integer) |
