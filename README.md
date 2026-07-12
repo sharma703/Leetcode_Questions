@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sharma703/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/sharma703/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sharma703/Leetcode_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1331-rank-transform-of-an-array](https://github.com/sharma703/Leetcode_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/sharma703/Leetcode_Questions/tree/master/1539-kth-missing-positive-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sharma703/Leetcode_Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sharma703/Leetcode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sharma703/Leetcode_Questions/tree/master/0268-missing-number) |
+| [1331-rank-transform-of-an-array](https://github.com/sharma703/Leetcode_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sharma703/Leetcode_Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
@@ -81,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sharma703/Leetcode_Questions/tree/master/0268-missing-number) |
+| [1331-rank-transform-of-an-array](https://github.com/sharma703/Leetcode_Questions/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
