@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/sharma703/Leetcode_Questions/tree/master/0896-monotonic-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sharma703/Leetcode_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/sharma703/Leetcode_Questions/tree/master/1051-height-checker) |
+| [1260-shift-2d-grid](https://github.com/sharma703/Leetcode_Questions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/sharma703/Leetcode_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/sharma703/Leetcode_Questions/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sharma703/Leetcode_Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sharma703/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sharma703/Leetcode_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sharma703/Leetcode_Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/sharma703/Leetcode_Questions/tree/master/1260-shift-2d-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/sharma703/Leetcode_Questions/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sharma703/Leetcode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/sharma703/Leetcode_Questions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
