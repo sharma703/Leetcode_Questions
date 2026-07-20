@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sharma703/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/sharma703/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/sharma703/Leetcode_Questions/tree/master/0414-third-maximum-number) |
+| [0477-total-hamming-distance](https://github.com/sharma703/Leetcode_Questions/tree/master/0477-total-hamming-distance) |
 | [0724-find-pivot-index](https://github.com/sharma703/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sharma703/Leetcode_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/sharma703/Leetcode_Questions/tree/master/0896-monotonic-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/sharma703/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/sharma703/Leetcode_Questions/tree/master/0268-missing-number) |
+| [0477-total-hamming-distance](https://github.com/sharma703/Leetcode_Questions/tree/master/0477-total-hamming-distance) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sharma703/Leetcode_Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sharma703/Leetcode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/sharma703/Leetcode_Questions/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/sharma703/Leetcode_Questions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/sharma703/Leetcode_Questions/tree/master/0476-number-complement) |
+| [0477-total-hamming-distance](https://github.com/sharma703/Leetcode_Questions/tree/master/0477-total-hamming-distance) |
 | [1009-complement-of-base-10-integer](https://github.com/sharma703/Leetcode_Questions/tree/master/1009-complement-of-base-10-integer) |
 ## Hash Table
 |  |
