@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sharma703/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/sharma703/Leetcode_Questions/tree/master/0414-third-maximum-number) |
 | [0477-total-hamming-distance](https://github.com/sharma703/Leetcode_Questions/tree/master/0477-total-hamming-distance) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/sharma703/Leetcode_Questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0724-find-pivot-index](https://github.com/sharma703/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sharma703/Leetcode_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/sharma703/Leetcode_Questions/tree/master/0896-monotonic-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sharma703/Leetcode_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sharma703/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/sharma703/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/sharma703/Leetcode_Questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sharma703/Leetcode_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sharma703/Leetcode_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/sharma703/Leetcode_Questions/tree/master/1539-kth-missing-positive-number) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/sharma703/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/sharma703/Leetcode_Questions/tree/master/0414-third-maximum-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/sharma703/Leetcode_Questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1051-height-checker](https://github.com/sharma703/Leetcode_Questions/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/sharma703/Leetcode_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sharma703/Leetcode_Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -109,11 +112,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sharma703/Leetcode_Questions/tree/master/0268-missing-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/sharma703/Leetcode_Questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/sharma703/Leetcode_Questions/tree/master/1331-rank-transform-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/sharma703/Leetcode_Questions/tree/master/0027-remove-element) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/sharma703/Leetcode_Questions/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
