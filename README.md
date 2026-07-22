@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sharma703/Leetcode_Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sharma703/Leetcode_Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1901-find-a-peak-element-ii](https://github.com/sharma703/Leetcode_Questions/tree/master/1901-find-a-peak-element-ii) |
+| [1929-concatenation-of-array](https://github.com/sharma703/Leetcode_Questions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sharma703/Leetcode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sharma703/Leetcode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
@@ -137,4 +138,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/sharma703/Leetcode_Questions/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/sharma703/Leetcode_Questions/tree/master/1260-shift-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/sharma703/Leetcode_Questions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
