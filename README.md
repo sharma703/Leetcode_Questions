@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/sharma703/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/sharma703/Leetcode_Questions/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/sharma703/Leetcode_Questions/tree/master/0412-fizz-buzz) |
 | [0477-total-hamming-distance](https://github.com/sharma703/Leetcode_Questions/tree/master/0477-total-hamming-distance) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sharma703/Leetcode_Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sharma703/Leetcode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/sharma703/Leetcode_Questions/tree/master/0412-fizz-buzz) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sharma703/Leetcode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Matrix
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/sharma703/Leetcode_Questions/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/sharma703/Leetcode_Questions/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/sharma703/Leetcode_Questions/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/sharma703/Leetcode_Questions/tree/master/1929-concatenation-of-array) |
