@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/sharma703/Leetcode_Questions/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/sharma703/Leetcode_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sharma703/Leetcode_Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1859-sorting-the-sentence](https://github.com/sharma703/Leetcode_Questions/tree/master/1859-sorting-the-sentence) |
 | [3536-maximum-product-of-two-digits](https://github.com/sharma703/Leetcode_Questions/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sharma703/Leetcode_Questions/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/sharma703/Leetcode_Questions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/sharma703/Leetcode_Questions/tree/master/0412-fizz-buzz) |
+| [1859-sorting-the-sentence](https://github.com/sharma703/Leetcode_Questions/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sharma703/Leetcode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Matrix
 |  |
