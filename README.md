@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/sharma703/Leetcode_Questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0724-find-pivot-index](https://github.com/sharma703/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sharma703/Leetcode_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/sharma703/Leetcode_Questions/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/sharma703/Leetcode_Questions/tree/master/0896-monotonic-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sharma703/Leetcode_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/sharma703/Leetcode_Questions/tree/master/1051-height-checker) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sharma703/Leetcode_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sharma703/Leetcode_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/sharma703/Leetcode_Questions/tree/master/0498-diagonal-traverse) |
+| [0867-transpose-matrix](https://github.com/sharma703/Leetcode_Questions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/sharma703/Leetcode_Questions/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/sharma703/Leetcode_Questions/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/sharma703/Leetcode_Questions/tree/master/1901-find-a-peak-element-ii) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sharma703/Leetcode_Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sharma703/Leetcode_Questions/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/sharma703/Leetcode_Questions/tree/master/0498-diagonal-traverse) |
+| [0867-transpose-matrix](https://github.com/sharma703/Leetcode_Questions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/sharma703/Leetcode_Questions/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/sharma703/Leetcode_Questions/tree/master/1929-concatenation-of-array) |
 ## Heap (Priority Queue)
