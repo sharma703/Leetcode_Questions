@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/sharma703/Leetcode_Questions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/sharma703/Leetcode_Questions/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/sharma703/Leetcode_Questions/tree/master/0477-total-hamming-distance) |
+| [0693-binary-number-with-alternating-bits](https://github.com/sharma703/Leetcode_Questions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/sharma703/Leetcode_Questions/tree/master/1009-complement-of-base-10-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sharma703/Leetcode_Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Hash Table
