@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/sharma703/Leetcode_Questions/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/sharma703/Leetcode_Questions/tree/master/0498-diagonal-traverse) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sharma703/Leetcode_Questions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/sharma703/Leetcode_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sharma703/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sharma703/Leetcode_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/sharma703/Leetcode_Questions/tree/master/0867-transpose-matrix) |
@@ -207,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/sharma703/Leetcode_Questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sharma703/Leetcode_Questions/tree/master/0877-stone-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sharma703/Leetcode_Questions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
