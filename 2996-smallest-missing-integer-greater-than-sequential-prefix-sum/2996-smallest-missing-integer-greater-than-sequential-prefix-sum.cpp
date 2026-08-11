@@ -1,11 +1,5 @@
 class Solution {
 public:
-    bool find(vector<int> & nums, int ans){
-        int n = nums.size();
-        set<int> st(nums.begin(), nums.end());
-        if(st.find(ans) != st.end()) return false;
-        return true;
-    }
     int missingInteger(vector<int>& nums) {
         int sum = nums[0];
         int n = nums.size();
@@ -17,8 +11,9 @@ public:
                 break;
             }
         }
+        set<int> st(nums.begin(), nums.end());
         
-        while(!find(nums,sum)){
+        while(st.find(sum) != st.end()){
             sum ++;
         }
     return sum;
