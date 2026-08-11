@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sharma703/Leetcode_Questions/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/sharma703/Leetcode_Questions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sharma703/Leetcode_Questions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/sharma703/Leetcode_Questions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sharma703/Leetcode_Questions/tree/master/0268-missing-number) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sharma703/Leetcode_Questions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharma703/Leetcode_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sharma703/Leetcode_Questions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/sharma703/Leetcode_Questions/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/sharma703/Leetcode_Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sharma703/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sharma703/Leetcode_Questions/tree/master/0344-reverse-string) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sharma703/Leetcode_Questions/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/sharma703/Leetcode_Questions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/sharma703/Leetcode_Questions/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/sharma703/Leetcode_Questions/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sharma703/Leetcode_Questions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sharma703/Leetcode_Questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sharma703/Leetcode_Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sharma703/Leetcode_Questions/tree/master/0415-add-strings) |
