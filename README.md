@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/sharma703/Leetcode_Questions/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/sharma703/Leetcode_Questions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/sharma703/Leetcode_Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/sharma703/Leetcode_Questions/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sharma703/Leetcode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sharma703/Leetcode_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/sharma703/Leetcode_Questions/tree/master/1512-number-of-good-pairs) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/sharma703/Leetcode_Questions/tree/master/0324-wiggle-sort-ii) |
 | [0409-longest-palindrome](https://github.com/sharma703/Leetcode_Questions/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/sharma703/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
+| [1386-cinema-seat-allocation](https://github.com/sharma703/Leetcode_Questions/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sharma703/Leetcode_Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Prefix Sum
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/sharma703/Leetcode_Questions/tree/master/0477-total-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sharma703/Leetcode_Questions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/sharma703/Leetcode_Questions/tree/master/1009-complement-of-base-10-integer) |
+| [1386-cinema-seat-allocation](https://github.com/sharma703/Leetcode_Questions/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sharma703/Leetcode_Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Hash Table
 |  |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/sharma703/Leetcode_Questions/tree/master/0409-longest-palindrome) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sharma703/Leetcode_Questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/sharma703/Leetcode_Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/sharma703/Leetcode_Questions/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/sharma703/Leetcode_Questions/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sharma703/Leetcode_Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sharma703/Leetcode_Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
