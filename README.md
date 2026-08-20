@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sharma703/Leetcode_Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sharma703/Leetcode_Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sharma703/Leetcode_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sharma703/Leetcode_Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sharma703/Leetcode_Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sharma703/Leetcode_Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/sharma703/Leetcode_Questions/tree/master/3731-find-missing-elements) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sharma703/Leetcode_Questions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/sharma703/Leetcode_Questions/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/sharma703/Leetcode_Questions/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sharma703/Leetcode_Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
