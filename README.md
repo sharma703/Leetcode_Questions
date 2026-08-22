@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sharma703/Leetcode_Questions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/sharma703/Leetcode_Questions/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/sharma703/Leetcode_Questions/tree/master/0896-monotonic-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/sharma703/Leetcode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sharma703/Leetcode_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/sharma703/Leetcode_Questions/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/sharma703/Leetcode_Questions/tree/master/1260-shift-2d-grid) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sharma703/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sharma703/Leetcode_Questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sharma703/Leetcode_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/sharma703/Leetcode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sharma703/Leetcode_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/sharma703/Leetcode_Questions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/sharma703/Leetcode_Questions/tree/master/1901-find-a-peak-element-ii) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sharma703/Leetcode_Questions/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/sharma703/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/sharma703/Leetcode_Questions/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/sharma703/Leetcode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sharma703/Leetcode_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/sharma703/Leetcode_Questions/tree/master/1480-running-sum-of-1d-array) |
 ## Sorting
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sharma703/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/sharma703/Leetcode_Questions/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/sharma703/Leetcode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sharma703/Leetcode_Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sharma703/Leetcode_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sharma703/Leetcode_Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
