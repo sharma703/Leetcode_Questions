@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sharma703/Leetcode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/sharma703/Leetcode_Questions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sharma703/Leetcode_Questions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2390-removing-stars-from-a-string](https://github.com/sharma703/Leetcode_Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/sharma703/Leetcode_Questions/tree/master/2785-sort-vowels-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sharma703/Leetcode_Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sharma703/Leetcode_Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sharma703/Leetcode_Questions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/sharma703/Leetcode_Questions/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/sharma703/Leetcode_Questions/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/sharma703/Leetcode_Questions/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sharma703/Leetcode_Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Heap (Priority Queue)
 |  |
@@ -334,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sharma703/Leetcode_Questions/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/sharma703/Leetcode_Questions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
