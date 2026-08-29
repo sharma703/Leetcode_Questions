@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/sharma703/Leetcode_Questions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/sharma703/Leetcode_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0686-repeated-string-match](https://github.com/sharma703/Leetcode_Questions/tree/master/0686-repeated-string-match) |
+| [0771-jewels-and-stones](https://github.com/sharma703/Leetcode_Questions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/sharma703/Leetcode_Questions/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sharma703/Leetcode_Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sharma703/Leetcode_Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/sharma703/Leetcode_Questions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/sharma703/Leetcode_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sharma703/Leetcode_Questions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0771-jewels-and-stones](https://github.com/sharma703/Leetcode_Questions/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/sharma703/Leetcode_Questions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sharma703/Leetcode_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sharma703/Leetcode_Questions/tree/master/1248-count-number-of-nice-subarrays) |
