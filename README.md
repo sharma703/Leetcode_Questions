@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sharma703/Leetcode_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sharma703/Leetcode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sharma703/Leetcode_Questions/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sharma703/Leetcode_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/sharma703/Leetcode_Questions/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/sharma703/Leetcode_Questions/tree/master/1539-kth-missing-positive-number) |
 | [1652-defuse-the-bomb](https://github.com/sharma703/Leetcode_Questions/tree/master/1652-defuse-the-bomb) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sharma703/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/sharma703/Leetcode_Questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sharma703/Leetcode_Questions/tree/master/0877-stone-game) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sharma703/Leetcode_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sharma703/Leetcode_Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sharma703/Leetcode_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sharma703/Leetcode_Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sharma703/Leetcode_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/sharma703/Leetcode_Questions/tree/master/1652-defuse-the-bomb) |
 | [2090-k-radius-subarray-averages](https://github.com/sharma703/Leetcode_Questions/tree/master/2090-k-radius-subarray-averages) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/sharma703/Leetcode_Questions/tree/master/2269-find-the-k-beauty-of-a-number) |
