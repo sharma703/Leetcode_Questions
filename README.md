@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sharma703/Leetcode_Questions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/sharma703/Leetcode_Questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sharma703/Leetcode_Questions/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/sharma703/Leetcode_Questions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/sharma703/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sharma703/Leetcode_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0137-single-number-ii](https://github.com/sharma703/Leetcode_Questions/tree/master/0137-single-number-ii) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sharma703/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/sharma703/Leetcode_Questions/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/sharma703/Leetcode_Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sharma703/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sharma703/Leetcode_Questions/tree/master/0268-missing-number) |
