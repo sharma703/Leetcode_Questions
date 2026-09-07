@@ -363,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/sharma703/Leetcode_Questions/tree/master/2390-removing-stars-from-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/sharma703/Leetcode_Questions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
