@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/sharma703/Leetcode_Questions/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/sharma703/Leetcode_Questions/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/sharma703/Leetcode_Questions/tree/master/0507-perfect-number) |
+| [0836-rectangle-overlap](https://github.com/sharma703/Leetcode_Questions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/sharma703/Leetcode_Questions/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sharma703/Leetcode_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sharma703/Leetcode_Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -389,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sharma703/Leetcode_Questions/tree/master/0141-linked-list-cycle) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sharma703/Leetcode_Questions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
