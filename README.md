@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sharma703/Leetcode_Questions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/sharma703/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sharma703/Leetcode_Questions/tree/master/0074-search-a-2d-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/sharma703/Leetcode_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/sharma703/Leetcode_Questions/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/sharma703/Leetcode_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/sharma703/Leetcode_Questions/tree/master/0228-summary-ranges) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sharma703/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/sharma703/Leetcode_Questions/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/sharma703/Leetcode_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/sharma703/Leetcode_Questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sharma703/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/sharma703/Leetcode_Questions/tree/master/0205-isomorphic-strings) |
@@ -403,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sharma703/Leetcode_Questions/tree/master/0836-rectangle-overlap) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sharma703/Leetcode_Questions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
