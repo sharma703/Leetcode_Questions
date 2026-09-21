@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sharma703/Leetcode_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sharma703/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sharma703/Leetcode_Questions/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/sharma703/Leetcode_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/sharma703/Leetcode_Questions/tree/master/0324-wiggle-sort-ii) |
 | [0410-split-array-largest-sum](https://github.com/sharma703/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/sharma703/Leetcode_Questions/tree/master/0414-third-maximum-number) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sharma703/Leetcode_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sharma703/Leetcode_Questions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/sharma703/Leetcode_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/sharma703/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/sharma703/Leetcode_Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/sharma703/Leetcode_Questions/tree/master/0724-find-pivot-index) |
@@ -415,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sharma703/Leetcode_Questions/tree/master/0128-longest-consecutive-sequence) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sharma703/Leetcode_Questions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
