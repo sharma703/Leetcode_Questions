@@ -13,6 +13,9 @@ public:
                 left++;
             }
         }
-        return len == INT_MAX ? 0 : len ;
+        if(len == INT_MAX){
+            return 0;
+        }
+        return len;
     }
 };
