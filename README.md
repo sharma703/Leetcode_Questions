@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sharma703/Leetcode_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/sharma703/Leetcode_Questions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/sharma703/Leetcode_Questions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/sharma703/Leetcode_Questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharma703/Leetcode_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sharma703/Leetcode_Questions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sharma703/Leetcode_Questions/tree/master/0067-add-binary) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sharma703/Leetcode_Questions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/sharma703/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/sharma703/Leetcode_Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
@@ -446,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sharma703/Leetcode_Questions/tree/master/0303-range-sum-query-immutable) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sharma703/Leetcode_Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
