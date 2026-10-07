@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sharma703/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sharma703/Leetcode_Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sharma703/Leetcode_Questions/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/sharma703/Leetcode_Questions/tree/master/0445-add-two-numbers-ii) |
 | [0477-total-hamming-distance](https://github.com/sharma703/Leetcode_Questions/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/sharma703/Leetcode_Questions/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/sharma703/Leetcode_Questions/tree/master/0507-perfect-number) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sharma703/Leetcode_Questions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/sharma703/Leetcode_Questions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sharma703/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/sharma703/Leetcode_Questions/tree/master/0445-add-two-numbers-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/sharma703/Leetcode_Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sharma703/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sharma703/Leetcode_Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sharma703/Leetcode_Questions/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/sharma703/Leetcode_Questions/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/sharma703/Leetcode_Questions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sharma703/Leetcode_Questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sharma703/Leetcode_Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
