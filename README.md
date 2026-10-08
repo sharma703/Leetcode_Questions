@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/sharma703/Leetcode_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sharma703/Leetcode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sharma703/Leetcode_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1019-next-greater-node-in-linked-list](https://github.com/sharma703/Leetcode_Questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1051-height-checker](https://github.com/sharma703/Leetcode_Questions/tree/master/1051-height-checker) |
 | [1052-grumpy-bookstore-owner](https://github.com/sharma703/Leetcode_Questions/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sharma703/Leetcode_Questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sharma703/Leetcode_Questions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sharma703/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/sharma703/Leetcode_Questions/tree/master/0445-add-two-numbers-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/sharma703/Leetcode_Questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/sharma703/Leetcode_Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/sharma703/Leetcode_Questions/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/sharma703/Leetcode_Questions/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/sharma703/Leetcode_Questions/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/sharma703/Leetcode_Questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sharma703/Leetcode_Questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sharma703/Leetcode_Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -483,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/sharma703/Leetcode_Questions/tree/master/0319-bulb-switcher) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/sharma703/Leetcode_Questions/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
