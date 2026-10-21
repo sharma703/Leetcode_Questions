@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sharma703/Leetcode_Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sharma703/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sharma703/Leetcode_Questions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/sharma703/Leetcode_Questions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/sharma703/Leetcode_Questions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/sharma703/Leetcode_Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sharma703/Leetcode_Questions/tree/master/0415-add-strings) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sharma703/Leetcode_Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sharma703/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sharma703/Leetcode_Questions/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/sharma703/Leetcode_Questions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/sharma703/Leetcode_Questions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/sharma703/Leetcode_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/sharma703/Leetcode_Questions/tree/master/0454-4sum-ii) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/sharma703/Leetcode_Questions/tree/master/0383-ransom-note) |
 | [1051-height-checker](https://github.com/sharma703/Leetcode_Questions/tree/master/1051-height-checker) |
 | [1512-number-of-good-pairs](https://github.com/sharma703/Leetcode_Questions/tree/master/1512-number-of-good-pairs) |
 ## Number Theory
