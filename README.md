@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/sharma703/Leetcode_Questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1051-height-checker](https://github.com/sharma703/Leetcode_Questions/tree/master/1051-height-checker) |
 | [1052-grumpy-bookstore-owner](https://github.com/sharma703/Leetcode_Questions/tree/master/1052-grumpy-bookstore-owner) |
+| [1089-duplicate-zeros](https://github.com/sharma703/Leetcode_Questions/tree/master/1089-duplicate-zeros) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sharma703/Leetcode_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/sharma703/Leetcode_Questions/tree/master/1260-shift-2d-grid) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/sharma703/Leetcode_Questions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sharma703/Leetcode_Questions/tree/master/0344-reverse-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sharma703/Leetcode_Questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0876-middle-of-the-linked-list](https://github.com/sharma703/Leetcode_Questions/tree/master/0876-middle-of-the-linked-list) |
+| [1089-duplicate-zeros](https://github.com/sharma703/Leetcode_Questions/tree/master/1089-duplicate-zeros) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sharma703/Leetcode_Questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sharma703/Leetcode_Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Counting Sort
