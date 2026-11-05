@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/sharma703/Leetcode_Questions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/sharma703/Leetcode_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sharma703/Leetcode_Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sharma703/Leetcode_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/sharma703/Leetcode_Questions/tree/master/1386-cinema-seat-allocation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/sharma703/Leetcode_Questions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sharma703/Leetcode_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/sharma703/Leetcode_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sharma703/Leetcode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sharma703/Leetcode_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sharma703/Leetcode_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/sharma703/Leetcode_Questions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/sharma703/Leetcode_Questions/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sharma703/Leetcode_Questions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/sharma703/Leetcode_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/sharma703/Leetcode_Questions/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/sharma703/Leetcode_Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sharma703/Leetcode_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sharma703/Leetcode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sharma703/Leetcode_Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1859-sorting-the-sentence](https://github.com/sharma703/Leetcode_Questions/tree/master/1859-sorting-the-sentence) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/sharma703/Leetcode_Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/sharma703/Leetcode_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/sharma703/Leetcode_Questions/tree/master/1089-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sharma703/Leetcode_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sharma703/Leetcode_Questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sharma703/Leetcode_Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Counting Sort
