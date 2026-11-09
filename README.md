@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/sharma703/Leetcode_Questions/tree/master/0454-4sum-ii) |
 | [0477-total-hamming-distance](https://github.com/sharma703/Leetcode_Questions/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/sharma703/Leetcode_Questions/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/sharma703/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/sharma703/Leetcode_Questions/tree/master/0498-diagonal-traverse) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sharma703/Leetcode_Questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/sharma703/Leetcode_Questions/tree/master/0643-maximum-average-subarray-i) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/sharma703/Leetcode_Questions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/sharma703/Leetcode_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/sharma703/Leetcode_Questions/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/sharma703/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sharma703/Leetcode_Questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/sharma703/Leetcode_Questions/tree/master/0771-jewels-and-stones) |
 | [0817-linked-list-components](https://github.com/sharma703/Leetcode_Questions/tree/master/0817-linked-list-components) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sharma703/Leetcode_Questions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sharma703/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/sharma703/Leetcode_Questions/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/sharma703/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sharma703/Leetcode_Questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/sharma703/Leetcode_Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sharma703/Leetcode_Questions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -559,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/sharma703/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sharma703/Leetcode_Questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sharma703/Leetcode_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tournament Sort
